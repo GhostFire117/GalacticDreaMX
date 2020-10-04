@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096565028219",
+    "firebase_url": "https://galactic-dreamx.firebaseio.com",
+    "project_id": "galactic-dreamx",
+    "storage_bucket": "galactic-dreamx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096565028219:android:b12539f38de377d270f9de",
+        "android_client_info": {
+          "package_name": "com.example.galacticdreamx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096565028219-c9pn1fgb92s1s4sm8m20t3tu7s7coulv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galacticdreamx",
+            "certificate_hash": "8b29cb187cf34ab334dd771f20a5a3522f7ea93d"
+          }
+        },
+        {
+          "client_id": "1096565028219-8navtjmov5nlueqttuojoo308u0dlivm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkSVGgy5RPL_WoeJlHBlKkEMUam4XYyYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096565028219-8navtjmov5nlueqttuojoo308u0dlivm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

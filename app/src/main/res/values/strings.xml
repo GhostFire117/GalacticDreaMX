@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Galactic DreaMX</string>
+
+    <string name="log_in">Log in</string>
+    <string name="create_account">Create Account</string>
+
+    <string name="btn_logearse">LOG IN</string>
+
+    <string name="btn_create_account">Create Account</string>
+
+
+</resources>
